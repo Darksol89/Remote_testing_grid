@@ -1,1 +1,1 @@
-# Remote_testing_grid
+# Репозиторий для запуска тестов через облачный сервис Selenium Grid
